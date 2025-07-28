@@ -14,15 +14,21 @@ A biblioteca BeautifulSoup4 que contém recursos que tornam prático a maneira d
 
 A biblioteca reportlab que contém recursos e possibilita a criação intuitiva de arquivos em pdf.
 
-Tela Inicial
+---
+
+Tela Inicial<br>
 <img width="382" height="140" alt="image" src="https://github.com/user-attachments/assets/8131b53e-f17f-4056-8ebc-c47b4ffed73f" />
-Resultados
+
+Resultados<br>
 <img width="619" height="376" alt="image" src="https://github.com/user-attachments/assets/a7f385fe-0549-4f76-b561-3ccfa49f4689" />
-Armazenamento de links
+
+Armazenamento de links<br>
 <img width="493" height="269" alt="image" src="https://github.com/user-attachments/assets/6d94c0b8-bf48-4fa6-b208-9f72e39dd119" />
-Criação de navegador
+
+Criação de navegador<br>
 <img width="505" height="300" alt="image" src="https://github.com/user-attachments/assets/a0526390-3807-4e4f-9cad-c18fd7761326" />
-Histórico dos navegadores
+
+Histórico dos navegadores<br>
 <img width="379" height="397" alt="image" src="https://github.com/user-attachments/assets/b93d4cf2-7f10-4cca-a993-470ee03ee73c" />
 
 
